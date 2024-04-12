@@ -13,13 +13,25 @@ To write a python program to find the rank of a matrix
 ### Step 5:End the program.
 ## Program:
 ```
+*/
+Program to implement the rank of matrix
+Developed by:Mohankumar.s
+RegisterNumber:23005002014
+/*
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 R=np.linalg.matrix_rank(A)
 print("The Rank of the Matrix A:",R)
 ```
 ## Output:
-![rank of matrix](https://github.com/MohanKumar755/RANK-OF-A-MATRIX/assets/146155007/0bb64fd9-d135-4a76-b33d-1741f4a00e89)
+Program to find the rank of matrix
+
+Developed by:Mohankumar.s
+
+RegisterNumber:23005002014
+
+![mohan4](https://github.com/MohanKumar755/RANK-OF-A-MATRIX/assets/146155007/e66ee0ac-70b8-41b1-914f-0b44c8dcc9ce)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
