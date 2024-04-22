@@ -24,13 +24,8 @@ R=np.linalg.matrix_rank(A)
 print("The Rank of the Matrix A:",R)
 ```
 ## Output:
-Program to find the rank of matrix
+![1](https://github.com/MohanKumar755/RANK-OF-A-MATRIX/assets/146155007/45bc0a37-2a4d-46b4-ab66-b05ca24bed09)
 
-Developed by:Mohankumar.s
-
-RegisterNumber:23005002014
-
-![mohan4](https://github.com/MohanKumar755/RANK-OF-A-MATRIX/assets/146155007/e66ee0ac-70b8-41b1-914f-0b44c8dcc9ce)
 
 
 ## Result:
