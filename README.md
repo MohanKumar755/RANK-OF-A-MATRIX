@@ -1,5 +1,5 @@
-# RANK-OF-A-MATRIX
-# DATE: 23/03/2024
+# EX :2-RANK-OF-A-MATRIX
+# DATE: 09.03.2024
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
@@ -14,7 +14,6 @@ To write a python program to find the rank of a matrix
 ## Program:
 ```
 */
-Program to implement the rank of matrix
 Developed by:Mohankumar.s
 RegisterNumber:23005002014
 /*
